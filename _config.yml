@@ -24,10 +24,10 @@ description: Under Construction
 # List of links in the navigation bar
 navbar-links:
   Resources: 
-    - Python "resources/python"
-    - Markdown "resources/markdown"
+    - Python: "resources/python"
+    - Markdown: "resources/markdown"
   Projects: 
-    - MITgcmtools "mitgcmtools.md"
+    - MITgcmtools: "mitgcmtools.md"
   About Me: "aboutme"
  
 
@@ -65,7 +65,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Helen Burns
+name: Helen Burns
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -141,7 +141,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
+      comments: false  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
   -
     scope:
