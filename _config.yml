@@ -25,7 +25,6 @@ description: Under Construction
 navbar-links:
   Resources: 
     - Python: "resources/python"
-    - Markdown: "resources/markdown"
   Projects: 
     - MITgcmtools: "mitgcmtools.md"
   About Me: "aboutme"
